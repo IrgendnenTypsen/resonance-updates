@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "2026.10.16.160928.721",
-  "file": "resonance-tester-2026-10-16-160928-721.zip",
-  "sha256": "027c441e68aa7aa52fc0318998b252cd80dae653a7b5c530c6c8926faa923b66",
-  "size": 13711605,
-  "publishedAt": "2026-10-16T14:09:28.721Z",
+  "version": "2026.10.19.203614.616",
+  "file": "resonance-tester-2026-10-19-203614-616.zip",
+  "sha256": "71a27bff99a514ce72f68c99c3881d18791a500b12ebd7964253afbb6a243e40",
+  "size": 13749843,
+  "publishedAt": "2026-10-19T20:36:14.616Z",
   "minimumUpdaterVersion": 1
 }
